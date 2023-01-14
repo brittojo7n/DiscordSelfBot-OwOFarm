@@ -1,0 +1,35 @@
+{
+  "name": "autofarm",
+  "version": "2.0.0",
+  "description": "Self bot to do farming automatically",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/Paiiss/autofarm/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paiissautofarm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Paiiss/autofarm/issues"
+  },
+  "keywords": [
+    "bot owo",
+    "owo farming",
+    "owo",
+    "farming",
+    "discord",
+    "hunting",
+    "battle"
+  ],
+  "author": "Paiiss",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.9.16",
+    "dotenv": "^10.0.0",
+    "server": "^1.0.38"
+  }
+}
